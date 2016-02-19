@@ -1,0 +1,33 @@
+/* detail.css */
+.blg-blogDetail {
+	padding: 25px 50px;
+}
+
+.blg-blogDetail img {
+	float: right;
+	width: 300px;
+	margin-left: 10px;
+}
+
+.blg-blogDetail .col-md-12 {
+	margin-top: 40px;
+}
+
+.blg-blogDetail h1 {
+	margin-top: 0px;
+	font-family: 'American Typewriter';
+	font-weight: 900;
+	color: #6666CC;
+}
+
+.blg-blogDetail h2 {
+	font-style: italic;
+	color: #666;
+	font-weight: 600;
+	margin-top: 10px;
+}
+
+.blg-blogDetail p {
+	font-size: 18px;
+    line-height: 1.5;
+}

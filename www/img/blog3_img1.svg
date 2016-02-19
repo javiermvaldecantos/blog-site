@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="800px" height="800px">
+<defs>
+<rect fill="black" id="b" width="400px" height="400px"/>
+<rect fill="grey" id="g" width="400px" height="400px" />
+<rect fill="white" id="w" width="400px" height="400px" />
+<g id="1" stroke="#00">
+<use xlink:href="#g" x="400" y="0"/>
+<use xlink:href="#g" x="0" y="0"/>
+<use xlink:href="#w" x="0" y="400"/>
+<use xlink:href="#b" x="400" y="400"/>
+</g>
+</defs>
+
+<g transform="scale(-1,1) translate(-800,0)">
+<use xlink:href="#1"  stroke-width="1"/>
+<use xlink:href="#1" transform="scale(0.5)" stroke-width="2"/>
+<use xlink:href="#1" transform="scale(0.25)" stroke-width="4"/>
+<use xlink:href="#1" transform="scale(.125)" stroke-width="8"/>
+<use xlink:href="#1" transform="scale(0.0625)" stroke-width="16"/>
+<use xlink:href="#1" transform="scale(0.03125)" stroke-width="32"/>
+<use xlink:href="#1" transform="scale(0.015625)" stroke-width="64"/>
+<use xlink:href="#1" transform="scale(0.0078125)" stroke-width="128"/>
+</g>
+</svg>

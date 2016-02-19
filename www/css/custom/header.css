@@ -1,0 +1,47 @@
+/* header.css */
+.blg-headerWrapper .blg-headerContainer {
+	background-color: #6666CC;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.blg-headerWrapper .blg-headerTitle {
+	font-family: 'American Typewriter';
+	color: #fff;
+	font-weight: 900;
+}
+.blg-headerWrapper .blg-headerSubtitle {
+	font-family: 'American Typewriter';
+	color: #000;
+	font-weight: 900;
+}
+.blg-headerWrapper button {
+	width: 100%;
+	outline-width: 0px !important;
+}
+.blg-headerWrapper button:active,
+.blg-headerWrapper button:focus {
+	outline-width: 0px !important;
+}
+.blg-headerWrapper .blg-buttonCreate,
+.blg-headerWrapper .blg-buttonCreate:active,
+.blg-headerWrapper .blg-buttonCreate:focus {
+	background: #FF9966;
+	color: #6666CC;
+	font-size: 16px;
+	font-family: 'American Typewriter';
+	font-weight: 900;
+	padding: 5px 12px;
+}
+.blg-headerButtonGroup div.col-xs-3 {
+	padding-top: 72px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.blg-headerButtonGroup div.col-xs-3:last-child {
+	padding-right: 15px;
+}
+
+.blg-bodyContainer {
+	background: #F2F2F2;
+	/*height: 1000px;*/
+}

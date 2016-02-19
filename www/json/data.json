@@ -1,0 +1,30 @@
+[
+	{
+		"title":"My Maravelous Trip",
+		"author":"John Doe",
+		"date":"",
+		"images": ["img/blog1_img1.png","",""],
+		"content":"blablabla blabalb bla lba lalablaskbld. bla bla bla bla bla bla bla.\nbla bla blabla bla blabla bla bla bla bla bla bla bla bla bla bla bla bla bla. "
+	},
+	{
+		"title":"New year, new job",
+		"author":"Tom Maier",
+		"date":"",
+		"images": ["img/blog2_img1.jpg","",""],
+		"content":"This new year I will leave Microsoft to start a new company. The company aims to be a network for teenagers that want to get in touch with tech companies.\n I'm very excited about this project and I hope it turns out well. I'm surrounding myself with people as smart as me or more so that we won't fail."
+	},
+	{
+		"title":"Lorem ipsum",
+		"author":"Julius Caesar",
+		"date":"",
+		"images": ["img/blog3_img1.jpg","",""],
+		"content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget odio.\n Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget odio."
+	},
+	{
+		"title":"Gap Year in Spain finished",
+		"author":"Jared Hoffmann",
+		"date":"",
+		"images": ["img/blog4_img1.png","",""],
+		"content":"I can't believe this year is over already. It's been thirteen months since I got that plane from Melbourne to Madrid. By the time I took it, I didn't know everything that was going to happen to me.\nFirst I ended up in Villanueva de La Cañada, a small village in the province of Madrid that turned out to be full of religious extremists. For this reason it was not easy to make friends there.\nAfter that I moved to the capital, Madrid, and there's where the fun begun. Madrid is honestly a city in which you cannot get bored. It's full of parks, bars, clubs, museums and restaurants, and the people of Madrid are very welcoming. If only the city had a proper bike lane, I would certainly live there for ever."
+	}
+]
